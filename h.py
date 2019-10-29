@@ -1,6 +1,7 @@
 # Open the file with read only permit
 import timeit
 import numpy as np
+import re
 # import SeqIO
 # from Bio import SeqIO
 
